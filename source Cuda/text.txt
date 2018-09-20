@@ -1,0 +1,1 @@
+Cuda language can provide great acceleration if used properly on a paralelizable piece of code

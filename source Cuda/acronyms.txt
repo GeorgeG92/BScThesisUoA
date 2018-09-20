@@ -1,0 +1,23 @@
+CUDA (Compute Unified Device Architecture)
+CPU central processing unit
+GPU graphics processing unit
+DES (DATA ENCRYPTION STANDARD
+AES (ADVANCED ENCRYPTION STANDARD)
+RSA
+CPU
+H2D host-to-device
+D2H device-to-host
+GF(2^8)
+
+subbytes
+shiftrows
+mixcolumns
+addroundkey
+
+
+
++++
+
+
+plaintext 
+ciphertext

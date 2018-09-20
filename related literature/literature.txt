@@ -1,0 +1,48 @@
+https://support.skype.com/en/faq/FA31/does-skype-use-encryption		->		SKYPE ENCRYPTION
+https://computing.llnl.gov/tutorials/parallel_comp/#Who			->		parallel (+openmp)
+https://en.wikipedia.org/wiki/Moore's_law				->		nomos tou Moore
+https://en.wikipedia.org/wiki/Parallel_computing#Parallel_programming_languages	  ->    wiki parallel prog
+http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard	  ->    aes algorythm
+https://en.wikipedia.org/wiki/Advanced_Encryption_Standard		->		aes algorythm
+www.utdallas.edu/~ravip/cs6390/slides/Slides_10.ppt			->		encryption algorithms
+https://support.microsoft.com/en-us/kb/246071				->		symnmetric/as. encr
+https://en.wikipedia.org/wiki/Block_cipher				->		block/stream ciphers
+https://www.cs.utexas.edu/~byoung/cs361/lecture45.pdf			->		ciphers (block/stream)
+http://web.townsendsecurity.com/bid/72450/What-are-the-Differences-Between-DES-and-AES-Encryption	DES/AES
+https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation		->		CMC/GCM/ECB
+https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf	->		AES genika
+
+
+https://computing.llnl.gov/tutorials/parallel_comp/#Whatis		->		parallel programming
+
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html
+									->		threads
+https://computing.llnl.gov/tutorials/pthreads/#Pthread			->		posix threads
+https://en.wikipedia.org/wiki/POSIX_Threads#POSIX_Threads_for_Windows	->		posix threads
+
+
+https://computing.llnl.gov/tutorials/parallel_comp/parallelClassifications.pdf	->	parallel
+https://computing.llnl.gov/tutorials/parallel_comp/#Whatis			->	parallel
+https://en.wikipedia.org/wiki/Event-driven_programming				->	event-driven programming
+https://cvw.cac.cornell.edu/parallel/shared				->		shared mem/distr.
+https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units  ->  gpgpu
+https://en.wikipedia.org/wiki/OpenCL						->	OpenCl
+https://en.wikipedia.org/wiki/CUDA						->	CUDA
+http://searchstorage.techtarget.com/definition/race-condition			->	Race Conditions
+https://en.wikipedia.org/wiki/Synchronization_(computer_science)#Synchronization_strategies_in_programming_languages
+									->		sync + rc
+http://stackoverflow.com/questions/17057777/performance-issues-single-cpu-core-vs-single-cuda-core
+									->		cpu thread vs cuda thread
+http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-titan-z/specifications		TITAN Z SPECS
+http://ark.intel.com/products/53580/Intel-Xeon-Processor-E7-8870-30M-Cache-2_40-GHz-6_40-GTs-Intel-QPI
+									->		XEON E7-8870 SPECS
+http://www.ntua.gr/cryptix/old/cryptix/aes/docs/katmct.html		->		CBC gif
+http://crypto.stackexchange.com/questions/225/should-i-use-ecb-or-cbc-encryption-mode-for-my-block-cipher
+									->		ECB as raw cipher
+
+
+https://en.wikipedia.org/wiki/Amdahl%27s_law				->		amdahl's law
+
++++
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.9382&rep=rep1&type=pdf	->	!!!

@@ -1,0 +1,3 @@
+gcc -o test_performance test/test_performance.c src/oaes_lib.c src/oaes_base64.c src/isaac/rand.c
+
+gcc -o test_encrypt test/test_encrypt.c src/oaes_lib.c src/oaes_base64.c src/isaac/rand.c

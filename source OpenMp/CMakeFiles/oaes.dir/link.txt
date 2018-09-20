@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/oaes.dir/src/oaes.c.o  -o oaes -rdynamic liboaes_lib.a -lpthread 
